@@ -1,10 +1,17 @@
-**Gestion et facturation des heures pour les experts fribourgeois**
 
+# Gestion et facturation des heures pour les experts fribourgeois
+
+Document excel permetant de gérér ses facturation d'heures pour le canton de Fribourg
+Les facture sont automatiquement complétée et exportées sous format pdf.
+
+## Installation
 
 Téléchargez le fichier et sauvegardez le dans un dossier local :
 https://github.com/GrubCaloz/ExpHeuresFR/raw/main/01_Heures%20expert.xlsm
 
-**Macro**
+    
+## Macro
+
 
 Si Windows bloque les macros, autorisez les dans la propriété du fichier :
 
@@ -19,8 +26,8 @@ Le tableau comporte 3 onglets :
 ![image](https://github.com/GrubCaloz/ExpHeuresFR/assets/163901454/e067298b-2f17-41f0-b193-10b9697bc17b)
 
 
+## Tâches
 
-**Tâches**
 
 Cliquez sur le bouton Nouvelle tâche
 La fenêtre ci-dessous s’ouvre
@@ -37,25 +44,19 @@ Vous pouvez ajouter plusieurs tâches d’affilées
  
 Vous pouvez modifier, après création, une tâche directement dans le tableau
 
+## Annexe
 
-**Paramètres**
- 
-
-Complétez vos informations personnelles et/ou votre employeur.
-
-Ces informations sont utilisées pour générer la facture.
-
-![image](https://github.com/GrubCaloz/ExpHeuresFR/assets/163901454/be8b49a5-55fb-4a62-900b-693b94c83507)
-
-**Annexe**
 
  ![image](https://github.com/GrubCaloz/ExpHeuresFR/assets/163901454/92fa769a-20e7-437d-bc12-1d62da1a5796)
 
 Sélectionnez **uniquement la profession et le type d’examen**, les données sont importées du tableau « Tâches » ce qui vous permet de vérifier votre annexe
-Assurez vous de ne pas avoir de facture (PDF) ou d’annexe ouverte avant d’en créer la nouvelle
+
+**Assurez vous de ne pas avoir de facture (PDF) ou d’annexe ouverte avant d’en créer la nouvelle**
+
 Cliquez sur « Générer la facture » (vous devez être connecté à internet à ce moment-là, le formulaire est récupéré en ligne)
 
 Une Pop-Up vous demande si vous êtes le bénéficiaire du paiement
+
  ![image](https://github.com/GrubCaloz/ExpHeuresFR/assets/163901454/85cccd71-61df-46dd-9225-67ee01a04110)
 
 Les documents sont alors générés en fonction de vos informations, ils sont enregistrés dans le dossier parent de votre fichier :
@@ -66,3 +67,18 @@ Les documents sont alors générés en fonction de vos informations, ils sont en
  
 
 Attention, les documents existants sont écrasés lors de la génération
+
+
+## Paramètres
+
+ 
+
+Complétez vos informations personnelles et/ou votre employeur.
+
+Ces informations sont utilisées pour générer la facture.
+
+![image](https://github.com/GrubCaloz/ExpHeuresFR/assets/163901454/be8b49a5-55fb-4a62-900b-693b94c83507)
+## Authors
+
+- [@GrubCaloz](https://www.github.com/GrubCaloz)
+
