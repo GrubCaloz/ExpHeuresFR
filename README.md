@@ -16,7 +16,8 @@ https://github.com/GrubCaloz/ExpHeuresFR/raw/main/01_Heures%20expert.xlsm
 
 Si Windows bloque l'execusion des macros, autorisez les dans la propriété du fichier :
 
- (![image](https://github.com/GrubCaloz/ExpHeuresFR/assets/163901454/3c3a968d-675d-42ad-940b-1dc4190cd7d5)|width=100)
+ ![image](https://github.com/GrubCaloz/ExpHeuresFR/assets/163901454/3c3a968d-675d-42ad-940b-1dc4190cd7d5|width=20)
+
 
 
 Le tableau comporte 3 onglets :
