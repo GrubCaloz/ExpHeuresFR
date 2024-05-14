@@ -2,6 +2,7 @@
 # Gestion et facturation des heures pour les experts fribourgeois
 
 Document excel permetant de gérér ses facturation d'heures pour le canton de Fribourg
+
 Les facture sont automatiquement complétée et exportées sous format pdf.
 
 ## Installation
