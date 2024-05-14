@@ -11,10 +11,10 @@ Téléchargez le fichier et sauvegardez le dans un dossier local :
 https://github.com/GrubCaloz/ExpHeuresFR/raw/main/01_Heures%20expert.xlsm
 
     
-## Macro
+## Permission des macros
 
 
-Si Windows bloque les macros, autorisez les dans la propriété du fichier :
+Si Windows bloque l'execusion des macros, autorisez les dans la propriété du fichier :
 
  ![image](https://github.com/GrubCaloz/ExpHeuresFR/assets/163901454/3c3a968d-675d-42ad-940b-1dc4190cd7d5)
 
@@ -27,7 +27,7 @@ Le tableau comporte 3 onglets :
 ![image](https://github.com/GrubCaloz/ExpHeuresFR/assets/163901454/e067298b-2f17-41f0-b193-10b9697bc17b)
 
 
-## Tâches
+## Onglet Tâches
 
 
 Cliquez sur le bouton Nouvelle tâche
@@ -45,7 +45,7 @@ Vous pouvez ajouter plusieurs tâches d’affilées
  
 Vous pouvez modifier, après création, une tâche directement dans le tableau
 
-## Annexe
+## Onglet Annexe
 
 
  ![image](https://github.com/GrubCaloz/ExpHeuresFR/assets/163901454/92fa769a-20e7-437d-bc12-1d62da1a5796)
@@ -70,7 +70,7 @@ Les documents sont alors générés en fonction de vos informations, ils sont en
 Attention, les documents existants sont écrasés lors de la génération
 
 
-## Paramètres
+## Onglet Paramètres
 
  
 
