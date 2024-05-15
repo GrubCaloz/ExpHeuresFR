@@ -80,6 +80,9 @@ Complétez vos informations personnelles et/ou votre employeur.
 Ces informations sont utilisées pour générer la facture.
 
 ![image](https://github.com/GrubCaloz/ExpHeuresFR/assets/163901454/be8b49a5-55fb-4a62-900b-693b94c83507)
+
+Vous pouvez modifier la liste des professions, le n° de Finance correspond au n° d'ordonnance du Sefri:
+https://www.becc.admin.ch/becc/public/bvz/beruf/showAllActive
 ## Authors
 
 - [@GrubCaloz](https://www.github.com/GrubCaloz)
