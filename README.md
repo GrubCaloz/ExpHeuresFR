@@ -8,7 +8,7 @@ Les facture sont automatiquement complétée et exportées sous format pdf.
 ## Compatibilité
 Ne fonctionne pas s'il est sauvegardé sur OneDrive.
 
-Ne fonctonne pas avec des version Excel 2016 et Excel 2019 ou antérieures.
+Ne fonctonne pas avec des versions Excel 2016, Excel 2019 ou antérieures.
 
 N'as pas été testé sur Mac ou Linux
 
