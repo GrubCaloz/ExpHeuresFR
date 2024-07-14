@@ -20,6 +20,7 @@ https://github.com/GrubCaloz/ExpHeuresFR/raw/main/01_Heures%20expert.xlsm
     
 ## Permission des macros
 
+La macro principale est disponnible dans le dossier "Code"
 
 Si Windows bloque l'execusion des macros, autorisez les dans la propriété du fichier :
 
