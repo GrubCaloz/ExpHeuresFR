@@ -39,7 +39,7 @@ End If
 
 
 'Va chercher le fichier sur Github
-docPath = "https://github.com/GrubCaloz/ExpHeuresFR/raw/main/02_Formulaire_Org.docx"
+docPath = "https://github.com/GrubCaloz/ExpHeuresFR/raw/main/Fichiers/02_Formulaire_Org.docx"
 Set wordApp = CreateObject("word.application")
 
 'wordApp.Visible = True 'Permet le debug
