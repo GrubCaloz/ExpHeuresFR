@@ -16,7 +16,7 @@ N'a pas été testé sur Mac ou Linux
 
 Téléchargez le fichier et sauvegardez le dans un dossier local :
 
-https://github.com/GrubCaloz/ExpHeuresFR/blob/main/Fichiers/01_Heures%20expert.xlsm
+https://github.com/GrubCaloz/ExpHeuresFR/raw/main/Fichiers/01_Heures%20expert.xlsm
 
 
     
