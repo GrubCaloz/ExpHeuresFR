@@ -6,7 +6,7 @@ Document excel permetant de gérér ses facturation d'heures pour le canton de F
 Les facture sont automatiquement complétée et exportées sous format pdf.
 
 ## Compatibilité
-Ne fonctionne pas s'il est sauvegardé sur OneDrive.
+En cas de stockage du fichier sur OneDrive, les fichirs d'exports sont créés sur le bureau.
 
 Ne fonctionne pas avec des versions Excel 2016, Excel 2019 ou antérieures.
 
